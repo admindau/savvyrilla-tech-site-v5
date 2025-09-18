@@ -8,7 +8,7 @@ export default function Contact() {
         <p className="text-slate-700 dark:text-slate-300 max-w-2xl">
           Tell us about your project. We’ll respond within 1–2 business days.
         </p>
-        <form action="https://formspree.io/f/yourFormID" method="POST" className="card grid gap-4 max-w-2xl">
+        <form action="https://formspree.io/f/xzzanbbl" method="POST" className="card grid gap-4 max-w-2xl">
           <div className="grid md:grid-cols-2 gap-4">
             <input className="border rounded-xl p-3 dark:bg-slate-950 dark:border-slate-800" placeholder="Full Name" name="name" required />
             <input className="border rounded-xl p-3 dark:bg-slate-950 dark:border-slate-800" placeholder="Email" type="email" name="email" required />
